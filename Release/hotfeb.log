@@ -1,0 +1,7 @@
+﻿  hotfeb_2019.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\遠銀升級案\弱掃後的總專案\hotfeb88_VS2019\xlginn-20100824\inc\wyg\cdefs.h(14,1): warning C4005: '__END_DECLS': 巨集重複定義
+D:\遠銀升級案\弱掃後的總專案\hotfeb88_VS2019\library\otswin1-150507-dev-vs2015\xlginn\include\ginn\cdefs.h(20): message : 請參閱 '__END_DECLS' 之前的定義
+D:\遠銀升級案\弱掃後的總專案\hotfeb88_VS2019\hotfeb_2019.cpp(3315,13): warning C4244: '=': 將 'time_t' 轉換為 'long'，由於類型不同，可能導致資料遺失
+D:\遠銀升級案\弱掃後的總專案\hotfeb88_VS2019\hotfeb_2019.cpp(4934,27): warning C4244: '引數': 將 'time_t' 轉換為 'long'，由於類型不同，可能導致資料遺失
+  hotfeb.vcxproj -> D:\遠銀升級案\弱掃後的總專案\hotfeb88_VS2019\Release\hotfeb_VS2019.exe

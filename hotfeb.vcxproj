@@ -49,7 +49,7 @@
       <PrecompiledHeaderOutputFile>.\Release\hotfeb.pch</PrecompiledHeaderOutputFile>
       <ObjectFileName>.\Release\</ObjectFileName>
       <ProgramDataBaseFileName>.\Release\</ProgramDataBaseFileName>
-      <AdditionalIncludeDirectories>..\library\otswin1-150507-dev-vs2015\inc;..\library\otswin1-150507-dev-vs2015\xlginn\include;..\_library\otswin1-150507-dev-vs2015\xlginn\include\ginn;C:\WinOneSys_FAR_遠東錄音\hotfeb88_VS2019_T1\xlginn-20100824\inc</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.\library\otswin1-150507-dev-vs2015\inc;.\library\otswin1-150507-dev-vs2015\xlginn\include;.\xlginn-20100824\inc;..\___library\otswin1-150507-dev-vs2015\xlginn\include\ginn</AdditionalIncludeDirectories>
     </ClCompile>
     <Midl>
       <TypeLibraryName>.\Release\hotfeb.tlb</TypeLibraryName>
@@ -66,7 +66,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <SubSystem>Console</SubSystem>
       <AdditionalDependencies>crypt_168.lib;DBLink.lib;faxc.lib;hots.lib;getConf.lib;ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>..\library\otswin1-150507-dev-vs2015\lib;..\library\otswin1-150507-dev-vs2015\xlginn\lib</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>.\library\otswin1-150507-dev-vs2015\lib;.\library\otswin1-150507-dev-vs2015\xlginn\lib</AdditionalLibraryDirectories>
       <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
     </Link>
   </ItemDefinitionGroup>
